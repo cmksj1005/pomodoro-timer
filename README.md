@@ -4,7 +4,13 @@ The purpose of this project is to create a personalized Pomodoro timer to effect
 
 ## Features
 
-The Pomodoro timer boasts several key features designed to optimize study sessions. Upon clicking the start button, the main message changes to "Study," initiating a 25-minute countdown. After completing this period, the timer displays a "Short Break" message, signaling a brief respite. Every four study sessions, users are rewarded with a longer 15-minute break to recharge. Additionally, the timer visually tracks progress by displaying small dots for each completed study session, allowing users to easily monitor their cumulative study time. This intuitive and motivating interface ensures a balanced approach to studying and breaks, promoting sustained productivity.
+* Upon clicking the start button, the main message changes to "Study," initiating a 25-minute countdown.
+* After completing the 25-minute study period, the timer displays a "Short Break" message, signaling a 5-minute countdown.
+* Every four study sessions, users are rewarded with a longer 15-minute break to recharge.
+* The timer visually tracks progress by displaying small dots for each completed study session.
+* This allows users to easily monitor their cumulative study time.
+* The intuitive and motivating interface ensures a balanced approach to studying and breaks.
+* Promotes sustained productivity through a structured study and break schedule.
 
 ## How to start
 ```
